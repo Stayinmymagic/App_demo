@@ -2,6 +2,7 @@
 
 ## 首頁
 點get started可以進入登入畫面
+
 ![image](https://github.com/Stayinmymagic/App_demo/blob/master/screen1.png)
 
 
