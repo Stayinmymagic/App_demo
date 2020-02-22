@@ -28,12 +28,12 @@
 * 因目前無開放任何賽事，若有賽事時，可以看到日期時間，比賽隊伍。
 * 按下「投注」後，進入新的頁面，顯示欲投注的賽事例如：NBA可投注讓分、不讓分、勝負、大小分等選項，以及輸入投注金額並在按下確認後送出此投注紀錄。
 
-![image](https://github.com/Stayinmymagic/App_demo/blob/master/screen5.png)
+![image](https://github.com/Stayinmymagic/App_demo/blob/master/screen6.png)
 
 ### 團隊模式
 若此帳號尚無隊伍，則會進入建立新創團隊頁面；若已經在某一隊伍中，將可看到自己的隊友或是可以邀請別人成為自己的隊友。
 
-![image](https://github.com/Stayinmymagic/App_demo/blob/master/screen6.png)
+![image](https://github.com/Stayinmymagic/App_demo/blob/master/screen5.png)
 
 ### 團隊模式
 因最近一次舉辦的競賽無團隊模式，所以按下「新建」會出現「本賽期無團隊模式的提醒」。
